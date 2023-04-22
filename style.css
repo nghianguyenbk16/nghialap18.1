@@ -1,0 +1,27 @@
+.img1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(antoine-beauvillain-qrPqGP-SG8w-unsplash.jpg);
+  background-size: cover;
+  height: 70vh;
+  background-position: center;
+  position: relative;
+}
+.img2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(clement-fusil-Fpqx6GGXfXs-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+}
+.img3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(luca-bravo-O453M2Liufs-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+}
+.inner-content-custom {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+}
